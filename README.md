@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 nbdev_install_git_hooks
 nbdev_build_lib
 pip install -e .
-nbdev_build_docs --force_all True
+nbdev_build_docs
 ```
 
 ## How to use
