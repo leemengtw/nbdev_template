@@ -2,7 +2,7 @@ repository: leemengtaiwan/nbdev_template
 output: web
 topnav_title: nbdev_template
 site_title: nbdev_template
-company_name: Meng Lee
+company_name: LeeMeng
 description: A description of your project
 # Set to false to disable KaTeX math
 use_math: true
